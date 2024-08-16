@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "thebm6Rz3eU=",
+  "success": true,
+  "projectFilePath": "D:\\hhAutoUpResum\\HHAutoUpResum\\HHAutoUpResum\\HHAutoUpResum.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.0\\microsoft.bcl.asyncinterfaces.1.1.0.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.extensions.configuration\\8.0.0\\microsoft.extensions.configuration.8.0.0.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\8.0.0\\microsoft.extensions.configuration.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.extensions.configuration.fileextensions\\8.0.0\\microsoft.extensions.configuration.fileextensions.8.0.0.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.extensions.configuration.json\\8.0.0\\microsoft.extensions.configuration.json.8.0.0.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\8.0.0\\microsoft.extensions.fileproviders.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.extensions.fileproviders.physical\\8.0.0\\microsoft.extensions.fileproviders.physical.8.0.0.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.extensions.filesystemglobbing\\8.0.0\\microsoft.extensions.filesystemglobbing.8.0.0.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.extensions.logging\\2.0.2\\microsoft.extensions.logging.2.0.2.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\2.0.2\\microsoft.extensions.logging.abstractions.2.0.2.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.extensions.options\\2.0.2\\microsoft.extensions.options.2.0.2.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\microsoft.extensions.primitives\\8.0.0\\microsoft.extensions.primitives.8.0.0.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\puppeteersharp\\18.1.0\\puppeteersharp.18.1.0.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\system.text.encodings.web\\8.0.0\\system.text.encodings.web.8.0.0.nupkg.sha512",
+    "C:\\Users\\msave\\.nuget\\packages\\system.text.json\\8.0.0\\system.text.json.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
